@@ -8,7 +8,7 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="thelamer"
 
 # title
-ENV TITLE=WPS-Office
+ENV TITLE=Konam-Office
 
 RUN \
   echo "**** add icon ****" && \
